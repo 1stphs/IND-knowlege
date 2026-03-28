@@ -1,0 +1,447 @@
+{
+  "doc_ecf1646596f6eb4d": {
+    "source_md": "1.0_说明函-模板-2020.07.21.md",
+    "file_hash": "ee679e3bc02387b721a47369f9a5457fc0360fc4",
+    "chunks": 5
+  },
+  "doc_7f5e33e179f30c38": {
+    "source_md": "2.1-通用技术文档目录-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "943a867f510d6d79c8922de3369c5673e1737585",
+    "chunks": 1
+  },
+  "doc_fd52efdceeda8ece": {
+    "source_md": "2.2-CTD前言-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "55564e5261e16bdc6dd4243f39777ecbbb6f0548",
+    "chunks": 4
+  },
+  "doc_c9a2dddd69efbace": {
+    "source_md": "2.3.P.1-剂型及产品组成-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "a74b508feb5342938d785d8a9fc469d314d0fbdf",
+    "chunks": 1
+  },
+  "doc_a0e9594d8b13d590": {
+    "source_md": "2.3.P.2-产品开发-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "ee661f3ce41aed41f06c7a97ebd5bb2c1ed70f14",
+    "chunks": 5
+  },
+  "doc_7bb8a026d7adb662": {
+    "source_md": "2.3.P.3-生产-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "2bc20673593c677807966885a293e4e9693c09dc",
+    "chunks": 8
+  },
+  "doc_a751d9329650b74e": {
+    "source_md": "2.3.P.4-辅料控制-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "6cb013c3d8a7b1ced97ccb5e713b9828b732ffc0",
+    "chunks": 1
+  },
+  "doc_9b55095458695969": {
+    "source_md": "2.3.P.5-制剂的质量控制-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "f3897e01d552e44b57b82bc9961458c0a2912146",
+    "chunks": 27
+  },
+  "doc_8efe4fb86070525f": {
+    "source_md": "2.3.P.6-对照品-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "68a4510d83a00a02ba841db5061ddaabd4463caa",
+    "chunks": 1
+  },
+  "doc_a230c83333847936": {
+    "source_md": "2.3.P.7-包装系统-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "4a1725e6eabc7c6d312b230a05e8c978676ca53e",
+    "chunks": 1
+  },
+  "doc_f3929692f62dbb1b": {
+    "source_md": "2.3.P.8-稳定性-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "700955c5c1dc02d62b5df11bdffce9e1fa8bbf31",
+    "chunks": 9
+  },
+  "doc_53303241fef28778": {
+    "source_md": "2.3.S.1-基本信息-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "63b9711126dfb2102e21a687fed97f8aa1a5e31b",
+    "chunks": 8
+  },
+  "doc_7e4cc82639fcfd54": {
+    "source_md": "2.3.S.2-生产-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "c2e5eb0f155aa3338261a1f1332caae2dc51889f",
+    "chunks": 33
+  },
+  "doc_79d22cb8992c36ec": {
+    "source_md": "2.3.S.3-特性鉴定-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "684bc864ffc75480b0a08c5fa86807049c531888",
+    "chunks": 13
+  },
+  "doc_a4083be35fe570d8": {
+    "source_md": "2.3.S.4-原液的质量控制-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "ebed9accf07d0e2e17fdae6d67b8f2bfa82f4693",
+    "chunks": 22
+  },
+  "doc_748087ae26add1fa": {
+    "source_md": "2.3.S.5-对照品-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "0dbf3a6cb157a50e9d32bacb7775ca3d94e93c4b",
+    "chunks": 7
+  },
+  "doc_99f57c11883b4ddd": {
+    "source_md": "2.3.S.6-包装系统-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "a053a4d54632f16c763cb9636bda8697a489c9f4",
+    "chunks": 4
+  },
+  "doc_e7c7261c5028be28": {
+    "source_md": "2.3.S.7-稳定性-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "f990f2335951565adc5b7783b321e490be7fc55f",
+    "chunks": 8
+  },
+  "doc_0d2db8b46a8f51c6": {
+    "source_md": "2.4_TQB2858_非临床试验综述.md",
+    "file_hash": "2124874abdaa5e4e6f9b01f4c99e46d3c8ce14a8",
+    "chunks": 56
+  },
+  "doc_096a73925235f670": {
+    "source_md": "2.6.1_TQB2858_前言.md",
+    "file_hash": "854cbe14facf059879fe521b328366d64efae43b",
+    "chunks": 10
+  },
+  "doc_e10e300693a84d9a": {
+    "source_md": "2.6.2_TQB2858_药理学文字总结.md",
+    "file_hash": "28d98d2d5eabc508fa3b5bdacebd5035760bc3f0",
+    "chunks": 18
+  },
+  "doc_8e43a85d82b28ed0": {
+    "source_md": "2.6.3_TQB2858_药理学列表总结.md",
+    "file_hash": "35ee0b5cb9fc30b00ed13d79e674eb56a67ea173",
+    "chunks": 6
+  },
+  "doc_1268a334d04a1aac": {
+    "source_md": "2.6.4_TQB2858_药代动力学文字总结.md",
+    "file_hash": "c6ec3cb6b68ea98b99aeedea85a54033f26eb11b",
+    "chunks": 16
+  },
+  "doc_daf52396b5396a02": {
+    "source_md": "2.6.5_TQB2858_药代动力学列表总结.md",
+    "file_hash": "de49f4dad005622cfe7ecc5f74937334740acd84",
+    "chunks": 18
+  },
+  "doc_699bcc8b18a15fff": {
+    "source_md": "2.6.6_TQB2858_毒理学文字总结.md",
+    "file_hash": "a49957d8ae8de11e4ea696e4ffebe1f36ae72751",
+    "chunks": 16
+  },
+  "doc_0624a8794538feb4": {
+    "source_md": "M4格式申报资料-1.1目录（模板）-2020.09.01.md",
+    "file_hash": "4a6a7e228f2adb067f6ec1c6ad519733dc96f32e",
+    "chunks": 2
+  },
+  "doc_0a852447cda3b06f": {
+    "source_md": "M4格式申报资料-2.1通用技术文档目录（模板）-2020.09.01.md",
+    "file_hash": "9f2c1dda169518bafd0aee8791893d7fa416f03b",
+    "chunks": 2
+  },
+  "doc_6a7342ef5ba3a644": {
+    "source_md": "M4格式申报资料-3.1目录（模板）-2020.07.10.md",
+    "file_hash": "b2d7b98c2875944bf324b7a4ba0b4950de9885a4",
+    "chunks": 2
+  },
+  "doc_2b0e20257e857206": {
+    "source_md": "M4格式申报资料-4.1目录（模板）-2020.08.01.md",
+    "file_hash": "88ec028159c2c9867c3339d9931fe14395bc9a9b",
+    "chunks": 2
+  },
+  "doc_8317e9b17517f9d2": {
+    "source_md": "M4格式申报资料-5.1目录（模板）-2020.07.10.md",
+    "file_hash": "7f2b1e1ad668bb487248625dc5a42d0bf145bf5a",
+    "chunks": 2
+  },
+  "doc_241ace60175416e2": {
+    "source_md": "M4格式申报资料-档案袋封面（天晴）-2020.09.01.md",
+    "file_hash": "ed601793e31f98904b05a3c106256743143b103c",
+    "chunks": 15
+  },
+  "doc_75440719a6dbc170": {
+    "source_md": "M4格式申报资料-档案袋封面（顺欣）-2020.09.01.md",
+    "file_hash": "55808c4f74ceeb38a3801d18583b2b887e03e400",
+    "chunks": 15
+  },
+  "doc_f3769296c70db8d1": {
+    "source_md": "M4格式申报资料-档案袋底部标签（天晴）.md",
+    "file_hash": "d4e67ce3094e21e92e491e06341221ae7f5df060",
+    "chunks": 1
+  },
+  "doc_f9480a4c3fc2be03": {
+    "source_md": "M4格式申报资料-档案袋底部标签（顺欣）.md",
+    "file_hash": "b0db367f2b2f5482ed93c96fe88946fb0cca2924",
+    "chunks": 1
+  },
+  "doc_f2a3917224626626": {
+    "source_md": "M4格式申报资料-申报资料封面（天晴）-2020.09.01.md",
+    "file_hash": "bb3d68c10d0cc8c5c0d7ad9c240e8a38be4a464b",
+    "chunks": 189
+  },
+  "doc_d860de195c825b35": {
+    "source_md": "M4格式申报资料-申报资料封面（顺欣）-2020.09.01.md",
+    "file_hash": "34c5906e872db54106430afc5aa975c10d720c21",
+    "chunks": 188
+  },
+  "doc_1d010adf4c9d60a5": {
+    "source_md": "M4格式申报资料-装订成册的资料内目录模板-2020.07.21.md",
+    "file_hash": "ddf45e46d585a1d9501a806396b717bf63aff4a4",
+    "chunks": 13
+  },
+  "doc_dd64f71698e7f360": {
+    "source_md": "M4格式资料格式要求-2020.08.11.md",
+    "file_hash": "b90889093b2d17fde8894f3494d4332d38fb9a20",
+    "chunks": 15
+  },
+  "doc_950b92a0b4052551": {
+    "source_md": "TQB2450注射液-1.3.1.1_研究药物说明书及修订说明-正大天晴药业集团股份有限公司.md",
+    "file_hash": "c530d69ecf64c526b86a7cdd754009b62099d65a",
+    "chunks": 48
+  },
+  "doc_7251d6673a91b7c2": {
+    "source_md": "TQB2450注射液-1.3.1.2_上市药品说明书及修订说明-正大天晴药业集团股份有限公司.md",
+    "file_hash": "7dede98446ad185302116721621a1669a73e0302",
+    "chunks": 1
+  },
+  "doc_aa8254919e5f33dc": {
+    "source_md": "TQB2450注射液-1.3.1_说明书目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "1f7f7024ed7b3d68f3e5eb47b72b7a4c70a8264d",
+    "chunks": 1
+  },
+  "doc_97f82a981e2a3830": {
+    "source_md": "TQB2450注射液-1.3.4.1_临床试验计划和方案-正大天晴药业集团股份有限公司.md",
+    "file_hash": "f125d5f1e9b95889f242578164bc464de2ecbc50",
+    "chunks": 192
+  },
+  "doc_ee5eb22733986e6a": {
+    "source_md": "TQB2450注射液-1.3.4.2_知情同意书样稿-正大天晴药业集团股份有限公司.md",
+    "file_hash": "8af33131c3981441ab3c92a02c101fc15e17e424",
+    "chunks": 27
+  },
+  "doc_cc9dc6051ad99a75": {
+    "source_md": "TQB2450注射液-1.3.4.3_研究者手册-正大天晴药业集团股份有限公司.md",
+    "file_hash": "2523709871b6d46f2b44bba960f589345dfa7b73",
+    "chunks": 59
+  },
+  "doc_3b1787ebd32c27ca": {
+    "source_md": "TQB2450注射液-1.3.4_临床试验相关资料word合并-正大天晴药业集团股份有限公司.md",
+    "file_hash": "292721dcd25656f0be89b1b5844f70f05414cd7c",
+    "chunks": 1
+  },
+  "doc_4def3a9ba3ce8134": {
+    "source_md": "TQB2450注射液-1.3.4_临床试验相关资料目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "6aa1e90a6a62f0583bc8d3ca2199a73f7edb737a",
+    "chunks": 1
+  },
+  "doc_30b732c2266a454a": {
+    "source_md": "TQB2450注射液-1.6_沟通交流会议-正大天晴药业集团股份有限公司.md",
+    "file_hash": "a063416239ca185694c6be2f3fa493bea0498798",
+    "chunks": 2
+  },
+  "doc_76aa38519ccab15a": {
+    "source_md": "TQB2450注射液-1.7.1_临床试验期间增加新适应症-正大天晴药业集团股份有限公司.md",
+    "file_hash": "8b18b22ee7923d03bc6c8a6e75332a1ba03f8e25",
+    "chunks": 1
+  },
+  "doc_91b079d3290e667f": {
+    "source_md": "TQB2450注射液-1.7.2_临床试验方案变更、非临床或药学变化或新发现等可能增加受试者安全性风险-正大天晴药业集团股份有限公司.md",
+    "file_hash": "e0819880058b115bd518369583e08fc66c295c1a",
+    "chunks": 1
+  },
+  "doc_858b669a8b4bdb88": {
+    "source_md": "TQB2450注射液-1.7.3_申办者调整临床试验方案、暂停或终止药物临床试验-正大天晴药业集团股份有限公司.md",
+    "file_hash": "7160beb3e52748939922c1d5a4794efe18396d0d",
+    "chunks": 1
+  },
+  "doc_1533757df70c3db6": {
+    "source_md": "TQB2450注射液-1.7_临床试验过程管理信息目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "4398e1bfdb2628655644a0537f9c8dc27d18cde3",
+    "chunks": 1
+  },
+  "doc_e705a96137b9cd36": {
+    "source_md": "TQB2450注射液-1.8.1_研发期间安全性更新报告及附件-第一份报告-正大天晴药业集团股份有限公司.md",
+    "file_hash": "5816eee6608bd0e6c42bf77b8ed0c912ef22ce45",
+    "chunks": 157
+  },
+  "doc_98eef2b192ac9107": {
+    "source_md": "TQB2450注射液-1.8.1_研发期间安全性更新报告及附件-附件1研究者手册-正大天晴药业集团股份有限公司.md",
+    "file_hash": "508fb0bbaa29fbc0ad219be89b6c70e1977b8d0b",
+    "chunks": 77
+  },
+  "doc_c4cf1de3473e2579": {
+    "source_md": "TQB2450注射液-1.8.2_其他潜在的严重安全性风险信息-正大天晴药业集团股份有限公司.md",
+    "file_hash": "f7eb64d15619acae320bb34e04ac0ac59b96f45b",
+    "chunks": 1
+  },
+  "doc_4a019696cc80a871": {
+    "source_md": "TQB2450注射液-1.8.3_风险管理计划-正大天晴药业集团股份有限公司.md",
+    "file_hash": "145652c19be5b5f3705d367de97a356135daf316",
+    "chunks": 43
+  },
+  "doc_c816d2b065351a0f": {
+    "source_md": "TQB2450注射液-1.8_药物警戒与风险管理目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "16a6aeb7766aec9180b4b30f8858ce57e1d85215",
+    "chunks": 1
+  },
+  "doc_11443a252661feed": {
+    "source_md": "TQB2450注射液-2.5.1_产品开发依据-正大天晴药业集团股份有限公司.md",
+    "file_hash": "8cda0d08af5e15ab4b90b3bbb359dee59aa2741f",
+    "chunks": 15
+  },
+  "doc_ecd3ab4429dfa6d6": {
+    "source_md": "TQB2450注射液-2.5.2_生物药剂学综述-正大天晴药业集团股份有限公司.md",
+    "file_hash": "97da252c8b1085ee584a262998e058372f11d1c7",
+    "chunks": 1
+  },
+  "doc_bb255953526d3981": {
+    "source_md": "TQB2450注射液-2.5.3_临床药理学综述-正大天晴药业集团股份有限公司.md",
+    "file_hash": "d8e6b1e483b39952a57710b6738e9b66d640be6c",
+    "chunks": 5
+  },
+  "doc_a14322224d5a83c4": {
+    "source_md": "TQB2450注射液-2.5.4_有效性综述-正大天晴药业集团股份有限公司.md",
+    "file_hash": "37893c828d643b04b76ca086e3d575c188a294d3",
+    "chunks": 15
+  },
+  "doc_4bec3c93b1195690": {
+    "source_md": "TQB2450注射液-2.5.5_安全性综述-正大天晴药业集团股份有限公司.md",
+    "file_hash": "a4810c27b01cfc663676ff8f9ef128910e7a0002",
+    "chunks": 15
+  },
+  "doc_cd050d585f6ad30d": {
+    "source_md": "TQB2450注射液-2.5.6_获益与风险评估-正大天晴药业集团股份有限公司.md",
+    "file_hash": "5d3b5cd9adc1edb3dcb493f90ebf606b1cad9d20",
+    "chunks": 8
+  },
+  "doc_e24335a31cec6b23": {
+    "source_md": "TQB2450注射液-2.5.7_参考文献-正大天晴药业集团股份有限公司.md",
+    "file_hash": "13e3bbe1e32d6b68aec2d3420c4f9ae4f1cdadec",
+    "chunks": 1
+  },
+  "doc_8c1774d8ead9809f": {
+    "source_md": "TQB2450注射液-2.5_临床综述word合并-正大天晴药业集团股份有限公司.md",
+    "file_hash": "473d2b0382e74717f750aa397a7915bd22f440b4",
+    "chunks": 1
+  },
+  "doc_cb1c2868d05592ed": {
+    "source_md": "TQB2450注射液-2.5_临床综述目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "49a948aabee72cf13e8bacdb2840b62f9334abbc",
+    "chunks": 1
+  },
+  "doc_fd5783951e779734": {
+    "source_md": "TQB2450注射液-2.7.1_生物药剂学研究及相关分析方法总结-正大天晴药业集团股份有限公司.md",
+    "file_hash": "29d98d79838ec811f0f153c8b56ea4cec042df83",
+    "chunks": 1
+  },
+  "doc_03233726a19abdfb": {
+    "source_md": "TQB2450注射液-2.7.2_临床药理学研究总结-正大天晴药业集团股份有限公司.md",
+    "file_hash": "7ba9c59898048bbe2283d762b2e31894a1e61253",
+    "chunks": 8
+  },
+  "doc_f73f04aa9c39e2d2": {
+    "source_md": "TQB2450注射液-2.7.3_临床有效性总结-正大天晴药业集团股份有限公司.md",
+    "file_hash": "c5efdc4b08eb114fc25ad3dfa9b0f739288366b6",
+    "chunks": 3
+  },
+  "doc_6463d97ff8aadbb2": {
+    "source_md": "TQB2450注射液-2.7.4_临床安全性总结-正大天晴药业集团股份有限公司.md",
+    "file_hash": "3ff64c6d27f887c5a6037e128a180567a3c6610e",
+    "chunks": 12
+  },
+  "doc_3e0a3fb53f773deb": {
+    "source_md": "TQB2450注射液-2.7.5_参考文献-正大天晴药业集团股份有限公司.md",
+    "file_hash": "73f74c37156304760323f9939c0eb6b25444ddec",
+    "chunks": 1
+  },
+  "doc_f3a50df3e14c5f09": {
+    "source_md": "TQB2450注射液-2.7.6_单项研究摘要-正大天晴药业集团股份有限公司.md",
+    "file_hash": "291b80185880b469e5fae219ae392a5321378065",
+    "chunks": 2
+  },
+  "doc_90728f7ca0288618": {
+    "source_md": "TQB2450注射液-2.7_临床总结目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "dde2be7b01d8771b5fa271464de21cc3996d3e3b",
+    "chunks": 1
+  },
+  "doc_e347cc3dc1b5ad7c": {
+    "source_md": "TQB2450注射液-5.1_模块5目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "ab690f955deafc8e5c91c86193b5eb75f3b03ff6",
+    "chunks": 1
+  },
+  "doc_b5c6ff410e2f313b": {
+    "source_md": "TQB2450注射液-5.2_所有临床研究列表-正大天晴药业集团股份有限公司.md",
+    "file_hash": "19f24467209523ebc538dde85da78b632fade02c",
+    "chunks": 1
+  },
+  "doc_8ceb4ebb55262610": {
+    "source_md": "TQB2450注射液-5.3.3.2_患者PK和初始耐受性研究报告（摘要）-正大天晴药业集团股份有限公司.md",
+    "file_hash": "1d285c41d8b727db425048972623b23d387bc339",
+    "chunks": 24
+  },
+  "doc_2cc3a122442bce0f": {
+    "source_md": "TQB2450注射液-5.3_临床研究报告-正大天晴药业集团股份有限公司.md",
+    "file_hash": "15a62f1cad31c9b02b496f1008bea887242adc47",
+    "chunks": 1
+  },
+  "doc_77007fdcb39a9755": {
+    "source_md": "TQB2450注射液-5.3_临床研究报告目录-正大天晴药业集团股份有限公司.md",
+    "file_hash": "31ce78295144d3f0a173500536039ad78dc417d2",
+    "chunks": 1
+  },
+  "doc_1b8e83875edd0395": {
+    "source_md": "TQB2450注射液-5.4_参考文献-正大天晴药业集团股份有限公司.md",
+    "file_hash": "62d06197d5df3fba0cf4f393c474495c28b7968c",
+    "chunks": 69
+  },
+  "doc_cf1d7dbac283455f": {
+    "source_md": "TQB2858注射液-1.3.1.2.上市药品说明书及修订说明-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "4a01f154a238554dd4d9d586de763bc68443abfe",
+    "chunks": 1
+  },
+  "doc_b5ea62f42c6f767e": {
+    "source_md": "TQB2858注射液-1.3.4-临床试验相关资料-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "2650f91cca71be7296fcf577b29ce174da7a9663",
+    "chunks": 359
+  },
+  "doc_1f8e59c6fcd83254": {
+    "source_md": "TQB2858注射液-1.7.临床试验过程管理信息-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "1ec231aed86fdf959194761796110a4583f60596",
+    "chunks": 1
+  },
+  "doc_b2573f0bad9165aa": {
+    "source_md": "TQB2858注射液-1.8.药物警戒与风险管理-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "7aaf804ea45c8b70e9661103680d64407f264da5",
+    "chunks": 29
+  },
+  "doc_150800d1434f726d": {
+    "source_md": "TQB2858注射液-2.5.临床综述-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "93e9066a38fb9e6b628dd326cfa9efe0590bfc4f",
+    "chunks": 65
+  },
+  "doc_7df2dfc77fbddae9": {
+    "source_md": "TQB2858注射液-2.7.临床总结-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "aa1415872060ece39791e2ea60982cc5a29538c6",
+    "chunks": 1
+  },
+  "doc_c5d833ea530c5fab": {
+    "source_md": "TQB2858注射液-5.1.模块5目录-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "412cf2eb88808915456edee76829fcb9f85ef013",
+    "chunks": 1
+  },
+  "doc_35142df42062eb19": {
+    "source_md": "TQB2858注射液-5.2.所有临床研究列表-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "07dfdd5587a0f1e65a7fa0fc21dbd1f191f97696",
+    "chunks": 1
+  },
+  "doc_18abf6d2e1476198": {
+    "source_md": "TQB2858注射液-5.3.临床研究报告-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "fbb6d06a74d62f39575385bc4aba65e217574f62",
+    "chunks": 1
+  },
+  "doc_d417e9fdfaec0d0d": {
+    "source_md": "TQB2858注射液-5.4.参考文献-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "e130e437bf00f9c1444ad3ea397ee01e095cd1a8",
+    "chunks": 5
+  },
+  "doc_5d906f1298c689ed": {
+    "source_md": "引言-正大天晴药业集团南京顺欣制药有限公司.md",
+    "file_hash": "4cfd4773d753404ed6b6ea9e82d67a76b3c40f8d",
+    "chunks": 4
+  }
+}

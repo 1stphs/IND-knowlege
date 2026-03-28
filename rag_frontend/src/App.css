@@ -1,0 +1,15 @@
+/* Moved most styles to index.css for global consistency */
+.app-container {
+  overflow: hidden;
+}
+
+.nav-item.active {
+  background-color: var(--accent-glow);
+  border: 1px solid var(--accent-color);
+  color: var(--text-primary);
+}
+
+.view-pane {
+  background-color: var(--bg-primary);
+  height: 100vh;
+}

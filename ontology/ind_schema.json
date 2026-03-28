@@ -1,0 +1,449 @@
+{
+  "ontology": {
+    "name": "INDDrugOntology",
+    "description": "A TBox ontology model derived from 88 IND summaries for TQB2858 and TQB2450, focusing on clinical, pharmaceutical, and regulatory dimensions with cross-links between modules 1.3.4 (protocol), 1.8 (risk management), 3 (quality), and 4 (nonclinical).",
+    "classes": [
+      {
+        "id": "ClinicalTrial",
+        "subclasses": [
+          {
+            "id": "PhaseTrial",
+            "subclasses": [
+              "PhaseI",
+              "PhaseII",
+              "PhaseIII"
+            ]
+          },
+          {
+            "id": "Cohort",
+            "subclasses": [
+              "DoseCohort",
+              "ExpansionCohort"
+            ]
+          },
+          {
+            "id": "DoseLevel",
+            "subclasses": [
+              "StartingDose",
+              "MaximumToleratedDose",
+              "RecommendedPhaseIIDose"
+            ]
+          },
+          {
+            "id": "Endpoint",
+            "subclasses": [
+              "PrimaryEndpoint",
+              "SecondaryEndpoint",
+              "SafetyEndpoint"
+            ]
+          },
+          {
+            "id": "InclusionCriteria",
+            "subclasses": [
+              "AgeCriterion",
+              "PerformanceStatusCriterion",
+              "OrganFunctionCriterion"
+            ]
+          },
+          {
+            "id": "ExclusionCriteria",
+            "subclasses": [
+              "PriorTherapyCriterion",
+              "ComorbidityCriterion"
+            ]
+          },
+          {
+            "id": "AdverseEvent",
+            "subclasses": [
+              "TreatmentRelatedAE",
+              "SeriousAE",
+              "ImmuneRelatedAE"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "PharmaceuticalProduct",
+        "subclasses": [
+          {
+            "id": "ActivePharmaceuticalIngredient",
+            "subclasses": [
+              "FusionProtein",
+              "MonoclonalAntibody"
+            ]
+          },
+          {
+            "id": "Formulation",
+            "subclasses": [
+              "InjectionSolution",
+              "LyophilizedPowder"
+            ]
+          },
+          {
+            "id": "Excipient",
+            "subclasses": [
+              "Buffer",
+              "Stabilizer",
+              "Surfactant"
+            ]
+          },
+          {
+            "id": "AnalyticalMethod",
+            "subclasses": [
+              "ELISA",
+              "HPLC",
+              "SEC",
+              "CE-SDS"
+            ]
+          },
+          {
+            "id": "Impurity",
+            "subclasses": [
+              "HighMolecularWeightImpurity",
+              "DegradationProduct",
+              "HostCellProtein"
+            ]
+          },
+          {
+            "id": "StorageCondition",
+            "subclasses": [
+              "Refrigerated",
+              "Frozen",
+              "LightProtected"
+            ]
+          },
+          {
+            "id": "PackagingSystem",
+            "subclasses": [
+              "GlassVial",
+              "RubberStopper",
+              "AluminumCap"
+            ]
+          },
+          {
+            "id": "StabilityStudy",
+            "subclasses": [
+              "AcceleratedStability",
+              "LongTermStability"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NonclinicalStudy",
+        "subclasses": [
+          {
+            "id": "PharmacologyStudy",
+            "subclasses": [
+              "InVitroPharmacology",
+              "InVivoEfficacy"
+            ]
+          },
+          {
+            "id": "PharmacokineticsStudy",
+            "subclasses": [
+              "Absorption",
+              "Distribution",
+              "Metabolism",
+              "Excretion"
+            ]
+          },
+          {
+            "id": "ToxicologyStudy",
+            "subclasses": [
+              "SingleDoseToxicity",
+              "RepeatDoseToxicity",
+              "Genotoxicity"
+            ]
+          },
+          {
+            "id": "SafetyPharmacology",
+            "subclasses": [
+              "CardiovascularSafety",
+              "RespiratorySafety"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "RegulatoryEntity",
+        "subclasses": [
+          {
+            "id": "RegulatoryBody",
+            "subclasses": [
+              "NMPA",
+              "FDA"
+            ]
+          },
+          {
+            "id": "Guideline",
+            "subclasses": [
+              "ICHGuideline",
+              "NMPAGuideline",
+              "CTDFormat"
+            ]
+          },
+          {
+            "id": "ApplicationType",
+            "subclasses": [
+              "IND",
+              "NDA",
+              "PriorityReview"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "RiskManagement",
+        "subclasses": [
+          {
+            "id": "RiskAssessment",
+            "subclasses": [
+              "SafetyUpdateReport",
+              "RiskManagementPlan"
+            ]
+          },
+          {
+            "id": "AdverseReaction",
+            "subclasses": [
+              "ExpectedAdverseReaction",
+              "UnexpectedSeriousAdverseReaction"
+            ]
+          },
+          {
+            "id": "MonitoringPlan",
+            "subclasses": [
+              "Pharmacovigilance",
+              "DoseLimitingToxicity"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "LiteratureReference",
+        "subclasses": [
+          "ClinicalTrialReference",
+          "NonclinicalStudyReference"
+        ]
+      },
+      {
+        "id": "ManufacturingProcess",
+        "subclasses": [
+          "CellCulture",
+          "Purification",
+          "FormulationFilling"
+        ]
+      },
+      {
+        "id": "QualityControl",
+        "subclasses": [
+          "BatchAnalysis",
+          "MethodValidation",
+          "ReferenceStandard"
+        ]
+      },
+      {
+        "id": "BiologicalActivity",
+        "subclasses": [
+          "BindingAffinity",
+          "NeutralizationActivity"
+        ]
+      },
+      {
+        "id": "Immunogenicity",
+        "subclasses": [
+          "AntiDrugAntibody",
+          "NeutralizingAntibody"
+        ]
+      },
+      {
+        "id": "Protocol",
+        "subclasses": [
+          "ClinicalProtocol",
+          "InformedConsent"
+        ]
+      },
+      {
+        "id": "InvestigatorHandbook",
+        "subclasses": [
+          "SafetyGuidelines",
+          "DosingInstructions"
+        ]
+      }
+    ],
+    "objectProperties": [
+      {
+        "id": "belongsTo",
+        "domain": [
+          "DoseLevel",
+          "Cohort"
+        ],
+        "range": [
+          "ClinicalTrial"
+        ],
+        "description": "Links dose levels or cohorts to a specific trial."
+      },
+      {
+        "id": "targets",
+        "domain": [
+          "ActivePharmaceuticalIngredient"
+        ],
+        "range": [
+          "Endpoint"
+        ],
+        "description": "Indicates the therapeutic target or endpoint addressed by the API."
+      },
+      {
+        "id": "validates",
+        "domain": [
+          "AnalyticalMethod"
+        ],
+        "range": [
+          "QualityControl",
+          "Impurity"
+        ],
+        "description": "Specifies methods used to validate quality or impurities."
+      },
+      {
+        "id": "requires",
+        "domain": [
+          "StabilityStudy"
+        ],
+        "range": [
+          "StorageCondition"
+        ],
+        "description": "Associates stability studies with required storage conditions."
+      },
+      {
+        "id": "supports",
+        "domain": [
+          "NonclinicalStudy"
+        ],
+        "range": [
+          "ClinicalTrial"
+        ],
+        "description": "Links nonclinical data to support clinical trial design (cross-module link)."
+      },
+      {
+        "id": "managesRiskOf",
+        "domain": [
+          "RiskManagement"
+        ],
+        "range": [
+          "AdverseEvent",
+          "Impurity"
+        ],
+        "description": "Connects risk plans to potential adverse events or impurities (links 1.8 to 3 and 4)."
+      },
+      {
+        "id": "compliesWith",
+        "domain": [
+          "ManufacturingProcess",
+          "Protocol"
+        ],
+        "range": [
+          "Guideline",
+          "RegulatoryBody"
+        ],
+        "description": "Ensures processes or protocols adhere to guidelines or bodies."
+      },
+      {
+        "id": "references",
+        "domain": [
+          "ClinicalTrial",
+          "NonclinicalStudy"
+        ],
+        "range": [
+          "LiteratureReference"
+        ],
+        "description": "Cites supporting literature."
+      },
+      {
+        "id": "contains",
+        "domain": [
+          "Formulation"
+        ],
+        "range": [
+          "Excipient",
+          "ActivePharmaceuticalIngredient"
+        ],
+        "description": "Defines composition of formulations."
+      },
+      {
+        "id": "assesses",
+        "domain": [
+          "ToxicologyStudy"
+        ],
+        "range": [
+          "SafetyEndpoint"
+        ],
+        "description": "Evaluates safety endpoints in tox studies."
+      },
+      {
+        "id": "induces",
+        "domain": [
+          "ActivePharmaceuticalIngredient"
+        ],
+        "range": [
+          "BiologicalActivity"
+        ],
+        "description": "Describes induced biological effects."
+      },
+      {
+        "id": "detects",
+        "domain": [
+          "AnalyticalMethod"
+        ],
+        "range": [
+          "Immunogenicity"
+        ],
+        "description": "Methods for detecting immunogenicity."
+      }
+    ],
+    "axioms": [
+      {
+        "id": "Axiom1",
+        "description": "If Impurity exceeds limit (e.g., high molecular weight >5%), then must have associated ToxicologyStudy for safety evaluation.",
+        "formal": "∀x (Impurity(x) ∧ exceedsLimit(x, B) → ∃y (ToxicologyStudy(y) ∧ assesses(y, x)))",
+        "rationale": "Derived from module 3 quality controls linking to module 4 tox studies for impurity risks."
+      },
+      {
+        "id": "Axiom2",
+        "description": "A ClinicalTrial requires prior NonclinicalStudy support for starting DoseLevel (e.g., MABEL-based).",
+        "formal": "∀x (ClinicalTrial(x) → ∃y (NonclinicalStudy(y) ∧ supports(y, x)))",
+        "rationale": "Cross-link from 1.3.4 protocol to module 4, ensuring nonclinical bridging."
+      },
+      {
+        "id": "Axiom3",
+        "description": "RiskManagementPlan must include monitoring for AdverseEvent in cohorts with high DoseLevel.",
+        "formal": "∀x (Cohort(x) ∧ highDoseLevel(x) → ∃y (RiskManagement(y) ∧ managesRiskOf(y, AdverseEvent)))",
+        "rationale": "From 1.8 risk management tied to 1.3.4 cohort dosing."
+      },
+      {
+        "id": "Axiom4",
+        "description": "Formulation stability under StorageCondition implies compatibility with PackagingSystem.",
+        "formal": "∀x (Formulation(x) ∧ stableUnder(x, StorageCondition) → ∃y (PackagingSystem(y) ∧ compliesWith(x, y)))",
+        "rationale": "Module 3 P.7-P.8 linkage for pharmaceutical integrity."
+      },
+      {
+        "id": "Axiom5",
+        "description": "If BiologicalActivity shows immunogenicity risk, then Protocol must include InclusionCriteria excluding high-risk patients.",
+        "formal": "∀x (BiologicalActivity(x) ∧ inducesImmunogenicity(x) → ∃y (Protocol(y) ∧ contains(y, ExclusionCriteria)))",
+        "rationale": "Cross from module 4 pharmacology to 1.3.4 protocol safety."
+      },
+      {
+        "id": "Axiom6",
+        "description": "Endpoint achievement in PhaseI implies DoseLevel selection for PhaseII.",
+        "formal": "∀x (PhaseI(x) ∧ achievesEndpoint(x) → ∃y (DoseLevel(y) ∧ belongsTo(y, PhaseII)))",
+        "rationale": "Logical progression in clinical development from summaries."
+      },
+      {
+        "id": "Axiom7",
+        "description": "AnalyticalMethod validation is required for QualityControl in ManufacturingProcess.",
+        "formal": "∀x (ManufacturingProcess(x) → ∃y (AnalyticalMethod(y) ∧ validates(y, QualityControl)))",
+        "rationale": "Module 3 S.4-P.5 standards."
+      }
+    ],
+    "totalClasses": 42
+  }
+}

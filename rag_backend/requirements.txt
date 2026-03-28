@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
+scikit-learn
+jieba
+numpy
+chromadb
+neo4j

@@ -1,0 +1,11 @@
+{
+  "06949f2b14bf4a55a5027464c8fa43bc": {
+    "job_id": "06949f2b14bf4a55a5027464c8fa43bc",
+    "status": "failed",
+    "markdown_dir": "2.3.P.5-制剂的质量控制-正大天晴药业集团南京顺欣制药有限公司.md",
+    "created_at": "2026-03-27T09:01:46.369838Z",
+    "updated_at": "2026-03-27T09:01:46.383214Z",
+    "result": null,
+    "error": "Traceback (most recent call last):\n  File \"D:\\益诺思\\IND\\IND-knowlege\\rag_backend\\service\\index_job_service.py\", line 61, in _run_job\n    result = self.ingestion_service.ingest_directory(markdown_dir)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\益诺思\\IND\\IND-knowlege\\rag_backend\\service\\ingestion_service.py\", line 86, in ingest_directory\n    raise ValueError(f\"Directory {directory} does not exist.\")\nValueError: Directory 2.3.P.5-制剂的质量控制-正大天晴药业集团南京顺欣制药有限公司.md does not exist.\n"
+  }
+}
