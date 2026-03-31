@@ -49,7 +49,7 @@ const IndexStatusView = () => {
     setIsPolling(true);
     setErrorMessage('');
     try {
-      const response = await axios.get<IndexJob>(`http://localhost:8000/api/index/${jobId.trim()}`);
+      const response = await axios.get<IndexJob>(`/api/index/${jobId.trim()}`);
       setJob(response.data);
     } catch (error: any) {
       setErrorMessage(error?.response?.data?.detail || '获取任务状态失败，请检查任务 ID。');
@@ -63,7 +63,7 @@ const IndexStatusView = () => {
     setIsSubmitting(true);
     setErrorMessage('');
     try {
-      const response = await axios.post<IndexJob>('http://localhost:8000/api/index', {
+      const response = await axios.post<IndexJob>('/api/index', {
         markdown_dir: markdownDir.trim(),
       });
       setJob(response.data);

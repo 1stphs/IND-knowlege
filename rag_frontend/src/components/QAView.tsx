@@ -55,7 +55,7 @@ const QAView = () => {
     setIsLoading(true);
 
     try {
-      const response = await axios.post('http://localhost:8000/api/chat', {
+      const response = await axios.post('/api/chat', {
         query: userMessage,
         top_k: 5,
         retrieval_options: {

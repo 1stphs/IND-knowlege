@@ -68,7 +68,7 @@ const KnowledgeGraph = () => {
   useEffect(() => {
     const fetchKG = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/api/graph/knowledge', {
+        const response = await axios.get('/api/graph/knowledge', {
           timeout: 20000,
         });
 

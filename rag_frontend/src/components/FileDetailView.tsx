@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useRef, useState, type WheelEvent } from 'react';
+import { useEffect, useMemo, useRef, useState, type WheelEvent } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import axios from 'axios';
 import {
@@ -427,7 +427,7 @@ const FileDetailView = () => {
     const fetchData = async () => {
       try {
         const response = await axios.get<FileDetailData>(
-          `http://localhost:8000/api/file/details?filename=${encodeURIComponent(filename || '')}`,
+          `/api/file/details?filename=${encodeURIComponent(filename || '')}`,
           { timeout: 20000 },
         );
 
@@ -548,7 +548,7 @@ const FileDetailView = () => {
 
     try {
       const response = await axios.post(
-        'http://localhost:8000/api/chat',
+        '/api/chat',
         {
           query: userMessage,
           top_k: 8,

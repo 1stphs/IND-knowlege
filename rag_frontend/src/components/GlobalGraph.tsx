@@ -31,7 +31,7 @@ const GlobalGraph = () => {
   useEffect(() => {
     const fetchGraph = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/api/graph/global?threshold=0.15');
+        const response = await axios.get('/api/graph/global?threshold=0.15');
         // Backend returns {nodes, edges}, react-force-graph expects {nodes, links}
         setData({
           nodes: response.data.nodes,
